@@ -37,6 +37,10 @@ body {
   }
 
 }
+
+.nav-style{
+  background-color: darkgoldenrod;
+}
 .nombre{
   color: white;
   
